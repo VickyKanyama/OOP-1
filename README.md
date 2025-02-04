@@ -1,7 +1,7 @@
-**ABSTRACT,INTERFACE and CONCRETE CLASSES**
+<ins>**ABSTRACT,INTERFACE and CONCRETE CLASSES**</ins>
 **ABSTRACT CLASSES AND INTERFACE CLASSES**
 They consist of an abstract class and abstract methods to prevent instantiation 
-**ABSTRACT CLASSES AND FEATURES**
+<ins>**ABSTRACT CLASSES AND FEATURES**</ins>
 Cafe(Abstract class)
 
 **Attributes: Variable attributes**
@@ -17,7 +17,7 @@ Inherit attributes from Cafe class.
 **Methods:**
 Inherits all methods from Cafe.
 
-**OTHER ABSTRACT CLSS**
+<ins>**OTHER ABSTRACT CLSS**</ins>
 **Salary class**
 The Salary class is an abstract class that calculates the salary after tax deduction and provides an abstract method DisplaySalary() to be implemented by subclasses. The class includes a constructor to initialize the salary and a method to calculate the salary after tax.
 
@@ -37,7 +37,7 @@ An abstract method DisplaySalary(double amount) to be implemented by subclasses.
 The Employee class is a concrete class that extends the abstract Salary class.
 It provides an implementation of the DisplaySalary() method to display the salary after tax.
 
-**INTERFACE CLASS AND FEATURES**
+<ins>**INTERFACE CLASS AND FEATURES**</ins>
 They consist of an abstract class and abstract methods to prevent instantiation
 **Interface class: Book**
 **Attributes: Constant/Final attributes**
